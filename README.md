@@ -208,7 +208,7 @@ Run all cells to train and evaluate the model.
 
 ## Author
 
-K. Lalith Teja  
+Karnati Lalith Teja  
 
 ---
 
